@@ -1,0 +1,65 @@
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.Services/bin/Debug/netcoreapp3.1/Dashboard.Services.deps.json
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.Services/bin/Debug/netcoreapp3.1/Dashboard.Services.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.Services/bin/Debug/netcoreapp3.1/Dashboard.Services.pdb
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.Services/bin/Debug/netcoreapp3.1/Auth.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.Services/bin/Debug/netcoreapp3.1/Base.DTOs.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.Services/bin/Debug/netcoreapp3.1/Common.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.Services/bin/Debug/netcoreapp3.1/ErrorHandling.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.Services/bin/Debug/netcoreapp3.1/PagingExtensions.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.Services/bin/Debug/netcoreapp3.1/Auth.pdb
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.Services/bin/Debug/netcoreapp3.1/Base.DTOs.pdb
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.Services/bin/Debug/netcoreapp3.1/Common.pdb
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.Services/bin/Debug/netcoreapp3.1/ErrorHandling.pdb
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.Services/bin/Debug/netcoreapp3.1/PagingExtensions.pdb
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.Services/obj/Debug/netcoreapp3.1/Dashboard.Services.AssemblyInfoInputs.cache
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.Services/obj/Debug/netcoreapp3.1/Dashboard.Services.AssemblyInfo.cs
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.Services/obj/Debug/netcoreapp3.1/Dashboard.Services.csproj.CoreCompileInputs.cache
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.Services/obj/Debug/netcoreapp3.1/Dashboard.Services.csproj.CopyComplete
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.Services/obj/Debug/netcoreapp3.1/Dashboard.Services.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.Services/obj/Debug/netcoreapp3.1/Dashboard.Services.pdb
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.Services/obj/Debug/netcoreapp3.1/Dashboard.Services.csproj.AssemblyReference.cache
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.Services/obj/Debug/netcoreapp3.1/Dashboard.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.Services\bin\Debug\netcoreapp3.1\Dashboard.Services.deps.json
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.Services\bin\Debug\netcoreapp3.1\Dashboard.Services.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.Services\bin\Debug\netcoreapp3.1\Dashboard.Services.pdb
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.Services\bin\Debug\netcoreapp3.1\Auth.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.Services\bin\Debug\netcoreapp3.1\Base.DTOs.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.Services\bin\Debug\netcoreapp3.1\Common.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.Services\bin\Debug\netcoreapp3.1\ErrorHandling.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.Services\bin\Debug\netcoreapp3.1\PagingExtensions.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.Services\bin\Debug\netcoreapp3.1\Auth.pdb
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.Services\bin\Debug\netcoreapp3.1\Base.DTOs.pdb
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.Services\bin\Debug\netcoreapp3.1\Common.pdb
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.Services\bin\Debug\netcoreapp3.1\ErrorHandling.pdb
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.Services\bin\Debug\netcoreapp3.1\PagingExtensions.pdb
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.Services\obj\Debug\netcoreapp3.1\Dashboard.Services.csproj.AssemblyReference.cache
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.Services\obj\Debug\netcoreapp3.1\Dashboard.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.Services\obj\Debug\netcoreapp3.1\Dashboard.Services.AssemblyInfoInputs.cache
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.Services\obj\Debug\netcoreapp3.1\Dashboard.Services.AssemblyInfo.cs
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.Services\obj\Debug\netcoreapp3.1\Dashboard.Services.csproj.CoreCompileInputs.cache
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.Services\obj\Debug\netcoreapp3.1\Dashboard.Services.sourcelink.json
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.Services\obj\Debug\netcoreapp3.1\Dashboard.Services.csproj.CopyComplete
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.Services\obj\Debug\netcoreapp3.1\Dashboard.Services.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.Services\obj\Debug\netcoreapp3.1\Dashboard.Services.pdb
+D:\sourcecodes\sf-line-connector\Dashboard.Services\bin\Debug\netcoreapp3.1\Dashboard.Services.deps.json
+D:\sourcecodes\sf-line-connector\Dashboard.Services\bin\Debug\netcoreapp3.1\Dashboard.Services.dll
+D:\sourcecodes\sf-line-connector\Dashboard.Services\bin\Debug\netcoreapp3.1\Dashboard.Services.pdb
+D:\sourcecodes\sf-line-connector\Dashboard.Services\bin\Debug\netcoreapp3.1\Auth.dll
+D:\sourcecodes\sf-line-connector\Dashboard.Services\bin\Debug\netcoreapp3.1\Base.DTOs.dll
+D:\sourcecodes\sf-line-connector\Dashboard.Services\bin\Debug\netcoreapp3.1\Common.dll
+D:\sourcecodes\sf-line-connector\Dashboard.Services\bin\Debug\netcoreapp3.1\ErrorHandling.dll
+D:\sourcecodes\sf-line-connector\Dashboard.Services\bin\Debug\netcoreapp3.1\PagingExtensions.dll
+D:\sourcecodes\sf-line-connector\Dashboard.Services\bin\Debug\netcoreapp3.1\Auth.pdb
+D:\sourcecodes\sf-line-connector\Dashboard.Services\bin\Debug\netcoreapp3.1\Base.DTOs.pdb
+D:\sourcecodes\sf-line-connector\Dashboard.Services\bin\Debug\netcoreapp3.1\Common.pdb
+D:\sourcecodes\sf-line-connector\Dashboard.Services\bin\Debug\netcoreapp3.1\ErrorHandling.pdb
+D:\sourcecodes\sf-line-connector\Dashboard.Services\bin\Debug\netcoreapp3.1\PagingExtensions.pdb
+D:\sourcecodes\sf-line-connector\Dashboard.Services\obj\Debug\netcoreapp3.1\Dashboard.Services.csproj.AssemblyReference.cache
+D:\sourcecodes\sf-line-connector\Dashboard.Services\obj\Debug\netcoreapp3.1\Dashboard.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\sourcecodes\sf-line-connector\Dashboard.Services\obj\Debug\netcoreapp3.1\Dashboard.Services.AssemblyInfoInputs.cache
+D:\sourcecodes\sf-line-connector\Dashboard.Services\obj\Debug\netcoreapp3.1\Dashboard.Services.AssemblyInfo.cs
+D:\sourcecodes\sf-line-connector\Dashboard.Services\obj\Debug\netcoreapp3.1\Dashboard.Services.csproj.CoreCompileInputs.cache
+D:\sourcecodes\sf-line-connector\Dashboard.Services\obj\Debug\netcoreapp3.1\Dashboard.Services.sourcelink.json
+D:\sourcecodes\sf-line-connector\Dashboard.Services\obj\Debug\netcoreapp3.1\Dashboard.Services.csproj.CopyComplete
+D:\sourcecodes\sf-line-connector\Dashboard.Services\obj\Debug\netcoreapp3.1\Dashboard.Services.dll
+D:\sourcecodes\sf-line-connector\Dashboard.Services\obj\Debug\netcoreapp3.1\Dashboard.Services.pdb

@@ -1,0 +1,32 @@
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Base.DTOs/bin/Debug/netcoreapp3.1/Base.DTOs.deps.json
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Base.DTOs/bin/Debug/netcoreapp3.1/Base.DTOs.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Base.DTOs/bin/Debug/netcoreapp3.1/Base.DTOs.pdb
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Base.DTOs/obj/Debug/netcoreapp3.1/Base.DTOs.AssemblyInfoInputs.cache
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Base.DTOs/obj/Debug/netcoreapp3.1/Base.DTOs.AssemblyInfo.cs
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Base.DTOs/obj/Debug/netcoreapp3.1/Base.DTOs.csproj.CoreCompileInputs.cache
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Base.DTOs/obj/Debug/netcoreapp3.1/Base.DTOs.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Base.DTOs/obj/Debug/netcoreapp3.1/Base.DTOs.pdb
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Base.DTOs/obj/Debug/netcoreapp3.1/Base.DTOs.csproj.AssemblyReference.cache
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Base.DTOs/obj/Debug/netcoreapp3.1/Base.DTOs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Base.DTOs\bin\Debug\netcoreapp3.1\Base.DTOs.deps.json
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Base.DTOs\bin\Debug\netcoreapp3.1\Base.DTOs.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Base.DTOs\bin\Debug\netcoreapp3.1\Base.DTOs.pdb
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Base.DTOs\obj\Debug\netcoreapp3.1\Base.DTOs.csproj.AssemblyReference.cache
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Base.DTOs\obj\Debug\netcoreapp3.1\Base.DTOs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Base.DTOs\obj\Debug\netcoreapp3.1\Base.DTOs.AssemblyInfoInputs.cache
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Base.DTOs\obj\Debug\netcoreapp3.1\Base.DTOs.AssemblyInfo.cs
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Base.DTOs\obj\Debug\netcoreapp3.1\Base.DTOs.csproj.CoreCompileInputs.cache
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Base.DTOs\obj\Debug\netcoreapp3.1\Base.DTOs.sourcelink.json
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Base.DTOs\obj\Debug\netcoreapp3.1\Base.DTOs.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Base.DTOs\obj\Debug\netcoreapp3.1\Base.DTOs.pdb
+D:\sourcecodes\sf-line-connector\Base.DTOs\bin\Debug\netcoreapp3.1\Base.DTOs.deps.json
+D:\sourcecodes\sf-line-connector\Base.DTOs\bin\Debug\netcoreapp3.1\Base.DTOs.dll
+D:\sourcecodes\sf-line-connector\Base.DTOs\bin\Debug\netcoreapp3.1\Base.DTOs.pdb
+D:\sourcecodes\sf-line-connector\Base.DTOs\obj\Debug\netcoreapp3.1\Base.DTOs.csproj.AssemblyReference.cache
+D:\sourcecodes\sf-line-connector\Base.DTOs\obj\Debug\netcoreapp3.1\Base.DTOs.GeneratedMSBuildEditorConfig.editorconfig
+D:\sourcecodes\sf-line-connector\Base.DTOs\obj\Debug\netcoreapp3.1\Base.DTOs.AssemblyInfoInputs.cache
+D:\sourcecodes\sf-line-connector\Base.DTOs\obj\Debug\netcoreapp3.1\Base.DTOs.AssemblyInfo.cs
+D:\sourcecodes\sf-line-connector\Base.DTOs\obj\Debug\netcoreapp3.1\Base.DTOs.csproj.CoreCompileInputs.cache
+D:\sourcecodes\sf-line-connector\Base.DTOs\obj\Debug\netcoreapp3.1\Base.DTOs.sourcelink.json
+D:\sourcecodes\sf-line-connector\Base.DTOs\obj\Debug\netcoreapp3.1\Base.DTOs.dll
+D:\sourcecodes\sf-line-connector\Base.DTOs\obj\Debug\netcoreapp3.1\Base.DTOs.pdb

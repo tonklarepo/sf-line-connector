@@ -1,0 +1,32 @@
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/ErrorHandling/bin/Debug/netcoreapp3.1/ErrorHandling.deps.json
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/ErrorHandling/bin/Debug/netcoreapp3.1/ErrorHandling.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/ErrorHandling/bin/Debug/netcoreapp3.1/ErrorHandling.pdb
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/ErrorHandling/obj/Debug/netcoreapp3.1/ErrorHandling.AssemblyInfoInputs.cache
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/ErrorHandling/obj/Debug/netcoreapp3.1/ErrorHandling.AssemblyInfo.cs
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/ErrorHandling/obj/Debug/netcoreapp3.1/ErrorHandling.csproj.CoreCompileInputs.cache
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/ErrorHandling/obj/Debug/netcoreapp3.1/ErrorHandling.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/ErrorHandling/obj/Debug/netcoreapp3.1/ErrorHandling.pdb
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/ErrorHandling/obj/Debug/netcoreapp3.1/ErrorHandling.csproj.AssemblyReference.cache
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/ErrorHandling/obj/Debug/netcoreapp3.1/ErrorHandling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\ErrorHandling\bin\Debug\netcoreapp3.1\ErrorHandling.deps.json
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\ErrorHandling\bin\Debug\netcoreapp3.1\ErrorHandling.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\ErrorHandling\bin\Debug\netcoreapp3.1\ErrorHandling.pdb
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\ErrorHandling\obj\Debug\netcoreapp3.1\ErrorHandling.csproj.AssemblyReference.cache
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\ErrorHandling\obj\Debug\netcoreapp3.1\ErrorHandling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\ErrorHandling\obj\Debug\netcoreapp3.1\ErrorHandling.AssemblyInfoInputs.cache
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\ErrorHandling\obj\Debug\netcoreapp3.1\ErrorHandling.AssemblyInfo.cs
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\ErrorHandling\obj\Debug\netcoreapp3.1\ErrorHandling.csproj.CoreCompileInputs.cache
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\ErrorHandling\obj\Debug\netcoreapp3.1\ErrorHandling.sourcelink.json
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\ErrorHandling\obj\Debug\netcoreapp3.1\ErrorHandling.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\ErrorHandling\obj\Debug\netcoreapp3.1\ErrorHandling.pdb
+D:\sourcecodes\sf-line-connector\ErrorHandling\bin\Debug\netcoreapp3.1\ErrorHandling.deps.json
+D:\sourcecodes\sf-line-connector\ErrorHandling\bin\Debug\netcoreapp3.1\ErrorHandling.dll
+D:\sourcecodes\sf-line-connector\ErrorHandling\bin\Debug\netcoreapp3.1\ErrorHandling.pdb
+D:\sourcecodes\sf-line-connector\ErrorHandling\obj\Debug\netcoreapp3.1\ErrorHandling.csproj.AssemblyReference.cache
+D:\sourcecodes\sf-line-connector\ErrorHandling\obj\Debug\netcoreapp3.1\ErrorHandling.GeneratedMSBuildEditorConfig.editorconfig
+D:\sourcecodes\sf-line-connector\ErrorHandling\obj\Debug\netcoreapp3.1\ErrorHandling.AssemblyInfoInputs.cache
+D:\sourcecodes\sf-line-connector\ErrorHandling\obj\Debug\netcoreapp3.1\ErrorHandling.AssemblyInfo.cs
+D:\sourcecodes\sf-line-connector\ErrorHandling\obj\Debug\netcoreapp3.1\ErrorHandling.csproj.CoreCompileInputs.cache
+D:\sourcecodes\sf-line-connector\ErrorHandling\obj\Debug\netcoreapp3.1\ErrorHandling.sourcelink.json
+D:\sourcecodes\sf-line-connector\ErrorHandling\obj\Debug\netcoreapp3.1\ErrorHandling.dll
+D:\sourcecodes\sf-line-connector\ErrorHandling\obj\Debug\netcoreapp3.1\ErrorHandling.pdb

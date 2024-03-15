@@ -1,0 +1,30 @@
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/DateTimeExtensions/bin/Debug/netcoreapp3.1/DateTimeExtensions.deps.json
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/DateTimeExtensions/bin/Debug/netcoreapp3.1/DateTimeExtensions.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/DateTimeExtensions/bin/Debug/netcoreapp3.1/DateTimeExtensions.pdb
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/DateTimeExtensions/obj/Debug/netcoreapp3.1/DateTimeExtensions.AssemblyInfoInputs.cache
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/DateTimeExtensions/obj/Debug/netcoreapp3.1/DateTimeExtensions.AssemblyInfo.cs
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/DateTimeExtensions/obj/Debug/netcoreapp3.1/DateTimeExtensions.csproj.CoreCompileInputs.cache
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/DateTimeExtensions/obj/Debug/netcoreapp3.1/DateTimeExtensions.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/DateTimeExtensions/obj/Debug/netcoreapp3.1/DateTimeExtensions.pdb
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/DateTimeExtensions/obj/Debug/netcoreapp3.1/DateTimeExtensions.csproj.AssemblyReference.cache
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/DateTimeExtensions/obj/Debug/netcoreapp3.1/DateTimeExtensions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\DateTimeExtensions\bin\Debug\netcoreapp3.1\DateTimeExtensions.deps.json
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\DateTimeExtensions\bin\Debug\netcoreapp3.1\DateTimeExtensions.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\DateTimeExtensions\bin\Debug\netcoreapp3.1\DateTimeExtensions.pdb
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\DateTimeExtensions\obj\Debug\netcoreapp3.1\DateTimeExtensions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\DateTimeExtensions\obj\Debug\netcoreapp3.1\DateTimeExtensions.AssemblyInfoInputs.cache
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\DateTimeExtensions\obj\Debug\netcoreapp3.1\DateTimeExtensions.AssemblyInfo.cs
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\DateTimeExtensions\obj\Debug\netcoreapp3.1\DateTimeExtensions.csproj.CoreCompileInputs.cache
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\DateTimeExtensions\obj\Debug\netcoreapp3.1\DateTimeExtensions.sourcelink.json
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\DateTimeExtensions\obj\Debug\netcoreapp3.1\DateTimeExtensions.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\DateTimeExtensions\obj\Debug\netcoreapp3.1\DateTimeExtensions.pdb
+D:\sourcecodes\sf-line-connector\DateTimeExtensions\bin\Debug\netcoreapp3.1\DateTimeExtensions.deps.json
+D:\sourcecodes\sf-line-connector\DateTimeExtensions\bin\Debug\netcoreapp3.1\DateTimeExtensions.dll
+D:\sourcecodes\sf-line-connector\DateTimeExtensions\bin\Debug\netcoreapp3.1\DateTimeExtensions.pdb
+D:\sourcecodes\sf-line-connector\DateTimeExtensions\obj\Debug\netcoreapp3.1\DateTimeExtensions.GeneratedMSBuildEditorConfig.editorconfig
+D:\sourcecodes\sf-line-connector\DateTimeExtensions\obj\Debug\netcoreapp3.1\DateTimeExtensions.AssemblyInfoInputs.cache
+D:\sourcecodes\sf-line-connector\DateTimeExtensions\obj\Debug\netcoreapp3.1\DateTimeExtensions.AssemblyInfo.cs
+D:\sourcecodes\sf-line-connector\DateTimeExtensions\obj\Debug\netcoreapp3.1\DateTimeExtensions.csproj.CoreCompileInputs.cache
+D:\sourcecodes\sf-line-connector\DateTimeExtensions\obj\Debug\netcoreapp3.1\DateTimeExtensions.sourcelink.json
+D:\sourcecodes\sf-line-connector\DateTimeExtensions\obj\Debug\netcoreapp3.1\DateTimeExtensions.dll
+D:\sourcecodes\sf-line-connector\DateTimeExtensions\obj\Debug\netcoreapp3.1\DateTimeExtensions.pdb

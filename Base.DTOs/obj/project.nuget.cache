@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "BrOlR7LX5ceewFu8fvTiKaXIjwmveVCVbub7SVFgSCMB424TDzT7mW9gE6syDSnG6l8vXTcMdNBqTg0AWlr5uw==",
+  "success": true,
+  "projectFilePath": "D:\\sourcecodes\\sf-line-connector\\Base.DTOs\\Base.DTOs.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tonklarepo\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

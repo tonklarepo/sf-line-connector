@@ -1,0 +1,32 @@
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Common/bin/Debug/netcoreapp3.1/Common.deps.json
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Common/bin/Debug/netcoreapp3.1/Common.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Common/bin/Debug/netcoreapp3.1/Common.pdb
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Common/obj/Debug/netcoreapp3.1/Common.AssemblyInfoInputs.cache
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Common/obj/Debug/netcoreapp3.1/Common.AssemblyInfo.cs
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Common/obj/Debug/netcoreapp3.1/Common.csproj.CoreCompileInputs.cache
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Common/obj/Debug/netcoreapp3.1/Common.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Common/obj/Debug/netcoreapp3.1/Common.pdb
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Common/obj/Debug/netcoreapp3.1/Common.csproj.AssemblyReference.cache
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Common/obj/Debug/netcoreapp3.1/Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Common\bin\Debug\netcoreapp3.1\Common.deps.json
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Common\bin\Debug\netcoreapp3.1\Common.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Common\bin\Debug\netcoreapp3.1\Common.pdb
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Common\obj\Debug\netcoreapp3.1\Common.csproj.AssemblyReference.cache
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Common\obj\Debug\netcoreapp3.1\Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfoInputs.cache
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfo.cs
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Common\obj\Debug\netcoreapp3.1\Common.csproj.CoreCompileInputs.cache
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Common\obj\Debug\netcoreapp3.1\Common.sourcelink.json
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Common\obj\Debug\netcoreapp3.1\Common.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Common\obj\Debug\netcoreapp3.1\Common.pdb
+D:\sourcecodes\sf-line-connector\Common\bin\Debug\netcoreapp3.1\Common.deps.json
+D:\sourcecodes\sf-line-connector\Common\bin\Debug\netcoreapp3.1\Common.dll
+D:\sourcecodes\sf-line-connector\Common\bin\Debug\netcoreapp3.1\Common.pdb
+D:\sourcecodes\sf-line-connector\Common\obj\Debug\netcoreapp3.1\Common.csproj.AssemblyReference.cache
+D:\sourcecodes\sf-line-connector\Common\obj\Debug\netcoreapp3.1\Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\sourcecodes\sf-line-connector\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfoInputs.cache
+D:\sourcecodes\sf-line-connector\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfo.cs
+D:\sourcecodes\sf-line-connector\Common\obj\Debug\netcoreapp3.1\Common.csproj.CoreCompileInputs.cache
+D:\sourcecodes\sf-line-connector\Common\obj\Debug\netcoreapp3.1\Common.sourcelink.json
+D:\sourcecodes\sf-line-connector\Common\obj\Debug\netcoreapp3.1\Common.dll
+D:\sourcecodes\sf-line-connector\Common\obj\Debug\netcoreapp3.1\Common.pdb

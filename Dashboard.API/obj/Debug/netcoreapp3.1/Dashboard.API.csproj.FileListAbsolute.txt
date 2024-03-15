@@ -1,0 +1,821 @@
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/Dashboard.API.deps.json
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/Dashboard.API.runtimeconfig.json
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/Dashboard.API.runtimeconfig.dev.json
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/Dashboard.API.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/Dashboard.API.pdb
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/System.Net.Http.Formatting.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Razor.Language.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.CSharp.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.Razor.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.Workspaces.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/Microsoft.DotNet.PlatformAbstractions.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Memory.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Binder.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyModel.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.ObjectPool.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/Microsoft.Identity.Client.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Abstractions.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Logging.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Tokens.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/Microsoft.OpenApi.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/dotnet-aspnet-codegenerator-design.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/Microsoft.Win32.Registry.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/Microsoft.Win32.Registry.AccessControl.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/Microsoft.Win32.SystemEvents.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/Newtonsoft.Json.Bson.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/NLog.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/NLog.Extensions.Logging.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/NLog.Web.AspNetCore.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/NuGet.Frameworks.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/NWebsec.AspNetCore.Core.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/NWebsec.AspNetCore.Middleware.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/Swashbuckle.AspNetCore.Swagger.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/System.CodeDom.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/System.Collections.Immutable.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/System.ComponentModel.Annotations.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/System.ComponentModel.Composition.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/System.ComponentModel.Composition.Registration.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/System.Composition.AttributedModel.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/System.Composition.Convention.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/System.Composition.Hosting.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/System.Composition.Runtime.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/System.Composition.TypedParts.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/System.Configuration.ConfigurationManager.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/System.Data.Odbc.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/System.Data.OleDb.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/System.Data.SqlClient.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/System.Diagnostics.DiagnosticSource.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/System.Diagnostics.EventLog.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/System.Diagnostics.PerformanceCounter.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/System.DirectoryServices.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/System.DirectoryServices.AccountManagement.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/System.DirectoryServices.Protocols.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/System.Drawing.Common.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/System.Formats.Asn1.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/System.IdentityModel.Tokens.Jwt.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/System.IO.FileSystem.AccessControl.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/System.IO.Packaging.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/System.IO.Ports.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/System.Management.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/System.Private.ServiceModel.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/System.Reflection.Context.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/System.Reflection.DispatchProxy.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/System.Runtime.Caching.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/System.Runtime.CompilerServices.Unsafe.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/System.Security.AccessControl.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/System.Security.Cryptography.Cng.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/System.Security.Cryptography.Pkcs.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/System.Security.Cryptography.ProtectedData.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/System.Security.Cryptography.Xml.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/System.Security.Permissions.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/System.Security.Principal.Windows.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/System.ServiceModel.Duplex.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/System.ServiceModel.Http.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/System.ServiceModel.NetTcp.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/System.ServiceModel.Primitives.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/System.ServiceModel.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/System.ServiceModel.Security.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/System.ServiceModel.Syndication.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/System.ServiceProcess.ServiceController.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/System.Speech.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/System.Text.Encoding.CodePages.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/System.Text.Json.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/System.Threading.AccessControl.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/System.Web.Services.Description.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/System.Windows.Extensions.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.resources.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.resources.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.resources.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/cs/System.Private.ServiceModel.resources.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/de/System.Private.ServiceModel.resources.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/es/System.Private.ServiceModel.resources.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/fr/System.Private.ServiceModel.resources.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/it/System.Private.ServiceModel.resources.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/ja/System.Private.ServiceModel.resources.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/ko/System.Private.ServiceModel.resources.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/pl/System.Private.ServiceModel.resources.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/pt-BR/System.Private.ServiceModel.resources.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/ru/System.Private.ServiceModel.resources.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/tr/System.Private.ServiceModel.resources.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/zh-Hans/System.Private.ServiceModel.resources.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/zh-Hant/System.Private.ServiceModel.resources.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/cs/System.Web.Services.Description.resources.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/de/System.Web.Services.Description.resources.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/es/System.Web.Services.Description.resources.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/fr/System.Web.Services.Description.resources.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/it/System.Web.Services.Description.resources.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/ja/System.Web.Services.Description.resources.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/ko/System.Web.Services.Description.resources.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/pl/System.Web.Services.Description.resources.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/pt-BR/System.Web.Services.Description.resources.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/ru/System.Web.Services.Description.resources.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/tr/System.Web.Services.Description.resources.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/zh-Hans/System.Web.Services.Description.resources.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/zh-Hant/System.Web.Services.Description.resources.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/Microsoft.Win32.Registry.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/Microsoft.Win32.Registry.AccessControl.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp3.1/Microsoft.Win32.SystemEvents.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/runtimes/linux-arm/native/libSystem.IO.Ports.Native.so
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/runtimes/linux-arm64/native/libSystem.IO.Ports.Native.so
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/runtimes/linux-x64/native/libSystem.IO.Ports.Native.so
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/runtimes/osx-arm64/native/libSystem.IO.Ports.Native.dylib
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/runtimes/osx-x64/native/libSystem.IO.Ports.Native.dylib
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/sni.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/sni.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/sni.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/runtimes/freebsd/lib/netcoreapp3.1/System.Data.Odbc.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/runtimes/linux/lib/netcoreapp3.1/System.Data.Odbc.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/runtimes/osx/lib/netcoreapp3.1/System.Data.Odbc.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp3.1/System.Data.Odbc.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Data.OleDb.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.1/System.Data.SqlClient.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.1/System.Data.SqlClient.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp3.1/System.Diagnostics.EventLog.Messages.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp3.1/System.Diagnostics.EventLog.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp3.1/System.Diagnostics.PerformanceCounter.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp3.1/System.DirectoryServices.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp3.1/System.DirectoryServices.AccountManagement.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/runtimes/linux/lib/netcoreapp3.1/System.DirectoryServices.Protocols.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/runtimes/osx/lib/netcoreapp3.1/System.DirectoryServices.Protocols.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp3.1/System.DirectoryServices.Protocols.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp3.1/System.Drawing.Common.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp3.1/System.Drawing.Common.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.IO.FileSystem.AccessControl.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netstandard2.0/System.IO.Ports.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.IO.Ports.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp3.1/System.Management.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp3.1/System.Runtime.Caching.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.AccessControl.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp3.0/System.Security.Cryptography.Cng.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp3.1/System.Security.Cryptography.Pkcs.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.1/System.Security.Principal.Windows.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.1/System.Security.Principal.Windows.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp3.1/System.ServiceProcess.ServiceController.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp3.1/System.Speech.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp3.1/System.Text.Encoding.CodePages.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Threading.AccessControl.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp3.1/System.Windows.Extensions.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/Auth.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/Base.DTOs.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/Common.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/Dashboard.Services.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/DateTimeExtensions.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/ErrorHandling.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/PagingExtensions.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/Auth.pdb
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/Base.DTOs.pdb
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/Dashboard.Services.pdb
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/DateTimeExtensions.pdb
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/ErrorHandling.pdb
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/PagingExtensions.pdb
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/Common.pdb
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/obj/Debug/netcoreapp3.1/Dashboard.API.AssemblyInfoInputs.cache
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/obj/Debug/netcoreapp3.1/Dashboard.API.AssemblyInfo.cs
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/obj/Debug/netcoreapp3.1/Dashboard.API.csproj.CoreCompileInputs.cache
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/obj/Debug/netcoreapp3.1/Dashboard.API.csproj.CopyComplete
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/obj/Debug/netcoreapp3.1/Dashboard.API.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/obj/Debug/netcoreapp3.1/Dashboard.API.pdb
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/obj/Debug/netcoreapp3.1/Dashboard.API.genruntimeconfig.cache
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/appsettings.Local.json
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/bin/Debug/netcoreapp3.1/Dashboard.API
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/obj/Debug/netcoreapp3.1/Dashboard.API.csproj.AssemblyReference.cache
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Dashboard.API/obj/Debug/netcoreapp3.1/Dashboard.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\appsettings.Local.json
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\Dashboard.API.exe
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\Dashboard.API.deps.json
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\Dashboard.API.runtimeconfig.json
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\Dashboard.API.runtimeconfig.dev.json
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\Dashboard.API.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\Dashboard.API.pdb
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.ObjectPool.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.AccessControl.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\NLog.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\NWebsec.AspNetCore.Core.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\NWebsec.AspNetCore.Middleware.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\System.ComponentModel.Composition.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\System.ComponentModel.Composition.Registration.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\System.Data.Odbc.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\System.Data.OleDb.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\System.Diagnostics.EventLog.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\System.DirectoryServices.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\System.DirectoryServices.AccountManagement.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\System.DirectoryServices.Protocols.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\System.Formats.Asn1.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\System.IO.FileSystem.AccessControl.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\System.IO.Packaging.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\System.IO.Ports.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\System.Management.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\System.Private.ServiceModel.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\System.Reflection.Context.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\System.Reflection.DispatchProxy.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Cng.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Pkcs.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Xml.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\System.ServiceModel.Duplex.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\System.ServiceModel.Http.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\System.ServiceModel.NetTcp.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\System.ServiceModel.Primitives.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\System.ServiceModel.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\System.ServiceModel.Security.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\System.ServiceModel.Syndication.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\System.ServiceProcess.ServiceController.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\System.Speech.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\System.Threading.AccessControl.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\System.Web.Services.Description.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\cs\System.Private.ServiceModel.resources.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\de\System.Private.ServiceModel.resources.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\es\System.Private.ServiceModel.resources.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\fr\System.Private.ServiceModel.resources.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\it\System.Private.ServiceModel.resources.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\ja\System.Private.ServiceModel.resources.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\ko\System.Private.ServiceModel.resources.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\pl\System.Private.ServiceModel.resources.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\pt-BR\System.Private.ServiceModel.resources.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\ru\System.Private.ServiceModel.resources.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\tr\System.Private.ServiceModel.resources.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\zh-Hans\System.Private.ServiceModel.resources.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\zh-Hant\System.Private.ServiceModel.resources.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\cs\System.Web.Services.Description.resources.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\de\System.Web.Services.Description.resources.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\es\System.Web.Services.Description.resources.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\fr\System.Web.Services.Description.resources.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\it\System.Web.Services.Description.resources.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\ja\System.Web.Services.Description.resources.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\ko\System.Web.Services.Description.resources.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\pl\System.Web.Services.Description.resources.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\pt-BR\System.Web.Services.Description.resources.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\ru\System.Web.Services.Description.resources.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\tr\System.Web.Services.Description.resources.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\zh-Hans\System.Web.Services.Description.resources.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\zh-Hant\System.Web.Services.Description.resources.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.AccessControl.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\runtimes\osx-arm64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\runtimes\freebsd\lib\netcoreapp3.1\System.Data.Odbc.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\runtimes\linux\lib\netcoreapp3.1\System.Data.Odbc.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\runtimes\osx\lib\netcoreapp3.1\System.Data.Odbc.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Data.Odbc.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Data.OleDb.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Diagnostics.EventLog.Messages.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Diagnostics.EventLog.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.DirectoryServices.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.DirectoryServices.AccountManagement.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\runtimes\linux\lib\netcoreapp3.1\System.DirectoryServices.Protocols.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\runtimes\osx\lib\netcoreapp3.1\System.DirectoryServices.Protocols.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.DirectoryServices.Protocols.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.IO.FileSystem.AccessControl.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netstandard2.0\System.IO.Ports.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.IO.Ports.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Management.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.AccessControl.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Security.Cryptography.Cng.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Security.Cryptography.Pkcs.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.ServiceProcess.ServiceController.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Speech.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Threading.AccessControl.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\Auth.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\Base.DTOs.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\Common.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\Dashboard.Services.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\DateTimeExtensions.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\ErrorHandling.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\PagingExtensions.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\Auth.pdb
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\Base.DTOs.pdb
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\Dashboard.Services.pdb
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\DateTimeExtensions.pdb
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\ErrorHandling.pdb
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\PagingExtensions.pdb
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\bin\Debug\netcoreapp3.1\Common.pdb
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\obj\Debug\netcoreapp3.1\Dashboard.API.csproj.AssemblyReference.cache
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\obj\Debug\netcoreapp3.1\Dashboard.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\obj\Debug\netcoreapp3.1\Dashboard.API.AssemblyInfoInputs.cache
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\obj\Debug\netcoreapp3.1\Dashboard.API.AssemblyInfo.cs
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\obj\Debug\netcoreapp3.1\Dashboard.API.csproj.CoreCompileInputs.cache
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\obj\Debug\netcoreapp3.1\Dashboard.API.sourcelink.json
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\obj\Debug\netcoreapp3.1\Dashboard.API.csproj.CopyComplete
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\obj\Debug\netcoreapp3.1\Dashboard.API.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\obj\Debug\netcoreapp3.1\Dashboard.API.pdb
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Dashboard.API\obj\Debug\netcoreapp3.1\Dashboard.API.genruntimeconfig.cache
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\appsettings.Local.json
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\Dashboard.API.exe
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\Dashboard.API.deps.json
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\Dashboard.API.runtimeconfig.json
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\Dashboard.API.runtimeconfig.dev.json
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\Dashboard.API.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\Dashboard.API.pdb
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.ObjectPool.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Abstractions.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.AccessControl.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\NLog.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\NWebsec.AspNetCore.Core.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\NWebsec.AspNetCore.Middleware.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\System.ComponentModel.Composition.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\System.ComponentModel.Composition.Registration.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\System.Data.Odbc.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\System.Data.OleDb.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\System.Diagnostics.EventLog.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\System.DirectoryServices.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\System.DirectoryServices.AccountManagement.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\System.DirectoryServices.Protocols.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\System.Formats.Asn1.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\System.IO.FileSystem.AccessControl.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\System.IO.Packaging.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\System.IO.Ports.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\System.Management.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\System.Private.ServiceModel.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\System.Reflection.Context.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\System.Reflection.DispatchProxy.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Cng.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Pkcs.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Xml.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\System.ServiceModel.Duplex.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\System.ServiceModel.Http.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\System.ServiceModel.NetTcp.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\System.ServiceModel.Primitives.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\System.ServiceModel.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\System.ServiceModel.Security.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\System.ServiceModel.Syndication.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\System.ServiceProcess.ServiceController.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\System.Speech.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\System.Threading.AccessControl.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\System.Web.Services.Description.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\cs\System.Private.ServiceModel.resources.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\de\System.Private.ServiceModel.resources.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\es\System.Private.ServiceModel.resources.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\fr\System.Private.ServiceModel.resources.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\it\System.Private.ServiceModel.resources.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\ja\System.Private.ServiceModel.resources.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\ko\System.Private.ServiceModel.resources.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\pl\System.Private.ServiceModel.resources.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\pt-BR\System.Private.ServiceModel.resources.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\ru\System.Private.ServiceModel.resources.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\tr\System.Private.ServiceModel.resources.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\zh-Hans\System.Private.ServiceModel.resources.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\zh-Hant\System.Private.ServiceModel.resources.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\cs\System.Web.Services.Description.resources.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\de\System.Web.Services.Description.resources.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\es\System.Web.Services.Description.resources.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\fr\System.Web.Services.Description.resources.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\it\System.Web.Services.Description.resources.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\ja\System.Web.Services.Description.resources.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\ko\System.Web.Services.Description.resources.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\pl\System.Web.Services.Description.resources.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\pt-BR\System.Web.Services.Description.resources.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\ru\System.Web.Services.Description.resources.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\tr\System.Web.Services.Description.resources.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\zh-Hans\System.Web.Services.Description.resources.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\zh-Hant\System.Web.Services.Description.resources.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.AccessControl.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\runtimes\osx-arm64\native\libSystem.IO.Ports.Native.dylib
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\runtimes\freebsd\lib\netcoreapp3.1\System.Data.Odbc.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\runtimes\linux\lib\netcoreapp3.1\System.Data.Odbc.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\runtimes\osx\lib\netcoreapp3.1\System.Data.Odbc.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Data.Odbc.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Data.OleDb.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Diagnostics.EventLog.Messages.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Diagnostics.EventLog.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.DirectoryServices.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.DirectoryServices.AccountManagement.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\runtimes\linux\lib\netcoreapp3.1\System.DirectoryServices.Protocols.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\runtimes\osx\lib\netcoreapp3.1\System.DirectoryServices.Protocols.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.DirectoryServices.Protocols.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.IO.FileSystem.AccessControl.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netstandard2.0\System.IO.Ports.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.IO.Ports.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Management.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Runtime.Caching.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.AccessControl.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Security.Cryptography.Cng.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Security.Cryptography.Pkcs.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.ServiceProcess.ServiceController.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Speech.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Threading.AccessControl.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Windows.Extensions.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\Auth.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\Base.DTOs.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\Common.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\Dashboard.Services.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\DateTimeExtensions.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\ErrorHandling.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\PagingExtensions.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\Auth.pdb
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\Base.DTOs.pdb
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\Dashboard.Services.pdb
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\DateTimeExtensions.pdb
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\ErrorHandling.pdb
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\PagingExtensions.pdb
+D:\sourcecodes\sf-line-connector\Dashboard.API\bin\Debug\netcoreapp3.1\Common.pdb
+D:\sourcecodes\sf-line-connector\Dashboard.API\obj\Debug\netcoreapp3.1\Dashboard.API.csproj.AssemblyReference.cache
+D:\sourcecodes\sf-line-connector\Dashboard.API\obj\Debug\netcoreapp3.1\Dashboard.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\sourcecodes\sf-line-connector\Dashboard.API\obj\Debug\netcoreapp3.1\Dashboard.API.AssemblyInfoInputs.cache
+D:\sourcecodes\sf-line-connector\Dashboard.API\obj\Debug\netcoreapp3.1\Dashboard.API.AssemblyInfo.cs
+D:\sourcecodes\sf-line-connector\Dashboard.API\obj\Debug\netcoreapp3.1\Dashboard.API.csproj.CoreCompileInputs.cache
+D:\sourcecodes\sf-line-connector\Dashboard.API\obj\Debug\netcoreapp3.1\Dashboard.API.sourcelink.json
+D:\sourcecodes\sf-line-connector\Dashboard.API\obj\Debug\netcoreapp3.1\Dashboard.API.csproj.CopyComplete
+D:\sourcecodes\sf-line-connector\Dashboard.API\obj\Debug\netcoreapp3.1\Dashboard.API.dll
+D:\sourcecodes\sf-line-connector\Dashboard.API\obj\Debug\netcoreapp3.1\Dashboard.API.pdb
+D:\sourcecodes\sf-line-connector\Dashboard.API\obj\Debug\netcoreapp3.1\Dashboard.API.genruntimeconfig.cache

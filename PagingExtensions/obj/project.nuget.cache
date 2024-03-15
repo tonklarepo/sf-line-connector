@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "FgwWf/atEFNFKZTiEPfRa/xilCFVoh3iDJQEQQGeMrHLWbzj/fRPsOPg4qLebnVEkeKVgLrFRgcgZ2cRAvWe9g==",
+  "success": true,
+  "projectFilePath": "D:\\sourcecodes\\sf-line-connector\\PagingExtensions\\PagingExtensions.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tonklarepo\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Tonklarepo\\.nuget\\packages\\microsoft.openapi\\1.1.4\\microsoft.openapi.1.1.4.nupkg.sha512",
+    "C:\\Users\\Tonklarepo\\.nuget\\packages\\swashbuckle.aspnetcore\\5.3.1\\swashbuckle.aspnetcore.5.3.1.nupkg.sha512",
+    "C:\\Users\\Tonklarepo\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.3.1\\swashbuckle.aspnetcore.swagger.5.3.1.nupkg.sha512",
+    "C:\\Users\\Tonklarepo\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.3.1\\swashbuckle.aspnetcore.swaggergen.5.3.1.nupkg.sha512",
+    "C:\\Users\\Tonklarepo\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.3.1\\swashbuckle.aspnetcore.swaggerui.5.3.1.nupkg.sha512"
+  ],
+  "logs": []
+}

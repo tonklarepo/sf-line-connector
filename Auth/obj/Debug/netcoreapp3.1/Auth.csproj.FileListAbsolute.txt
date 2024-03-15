@@ -1,0 +1,32 @@
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Auth/bin/Debug/netcoreapp3.1/Auth.deps.json
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Auth/bin/Debug/netcoreapp3.1/Auth.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Auth/bin/Debug/netcoreapp3.1/Auth.pdb
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Auth/obj/Debug/netcoreapp3.1/Auth.AssemblyInfoInputs.cache
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Auth/obj/Debug/netcoreapp3.1/Auth.AssemblyInfo.cs
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Auth/obj/Debug/netcoreapp3.1/Auth.csproj.CoreCompileInputs.cache
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Auth/obj/Debug/netcoreapp3.1/Auth.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Auth/obj/Debug/netcoreapp3.1/Auth.pdb
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Auth/obj/Debug/netcoreapp3.1/Auth.csproj.AssemblyReference.cache
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/Auth/obj/Debug/netcoreapp3.1/Auth.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Auth\bin\Debug\netcoreapp3.1\Auth.deps.json
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Auth\bin\Debug\netcoreapp3.1\Auth.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Auth\bin\Debug\netcoreapp3.1\Auth.pdb
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Auth\obj\Debug\netcoreapp3.1\Auth.csproj.AssemblyReference.cache
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Auth\obj\Debug\netcoreapp3.1\Auth.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Auth\obj\Debug\netcoreapp3.1\Auth.AssemblyInfoInputs.cache
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Auth\obj\Debug\netcoreapp3.1\Auth.AssemblyInfo.cs
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Auth\obj\Debug\netcoreapp3.1\Auth.csproj.CoreCompileInputs.cache
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Auth\obj\Debug\netcoreapp3.1\Auth.sourcelink.json
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Auth\obj\Debug\netcoreapp3.1\Auth.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\Auth\obj\Debug\netcoreapp3.1\Auth.pdb
+D:\sourcecodes\sf-line-connector\Auth\bin\Debug\netcoreapp3.1\Auth.deps.json
+D:\sourcecodes\sf-line-connector\Auth\bin\Debug\netcoreapp3.1\Auth.dll
+D:\sourcecodes\sf-line-connector\Auth\bin\Debug\netcoreapp3.1\Auth.pdb
+D:\sourcecodes\sf-line-connector\Auth\obj\Debug\netcoreapp3.1\Auth.csproj.AssemblyReference.cache
+D:\sourcecodes\sf-line-connector\Auth\obj\Debug\netcoreapp3.1\Auth.GeneratedMSBuildEditorConfig.editorconfig
+D:\sourcecodes\sf-line-connector\Auth\obj\Debug\netcoreapp3.1\Auth.AssemblyInfoInputs.cache
+D:\sourcecodes\sf-line-connector\Auth\obj\Debug\netcoreapp3.1\Auth.AssemblyInfo.cs
+D:\sourcecodes\sf-line-connector\Auth\obj\Debug\netcoreapp3.1\Auth.csproj.CoreCompileInputs.cache
+D:\sourcecodes\sf-line-connector\Auth\obj\Debug\netcoreapp3.1\Auth.sourcelink.json
+D:\sourcecodes\sf-line-connector\Auth\obj\Debug\netcoreapp3.1\Auth.dll
+D:\sourcecodes\sf-line-connector\Auth\obj\Debug\netcoreapp3.1\Auth.pdb

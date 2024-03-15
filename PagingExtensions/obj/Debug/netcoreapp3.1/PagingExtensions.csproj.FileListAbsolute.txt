@@ -1,0 +1,32 @@
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/PagingExtensions/bin/Debug/netcoreapp3.1/PagingExtensions.deps.json
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/PagingExtensions/bin/Debug/netcoreapp3.1/PagingExtensions.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/PagingExtensions/bin/Debug/netcoreapp3.1/PagingExtensions.pdb
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/PagingExtensions/obj/Debug/netcoreapp3.1/PagingExtensions.AssemblyInfoInputs.cache
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/PagingExtensions/obj/Debug/netcoreapp3.1/PagingExtensions.AssemblyInfo.cs
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/PagingExtensions/obj/Debug/netcoreapp3.1/PagingExtensions.csproj.CoreCompileInputs.cache
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/PagingExtensions/obj/Debug/netcoreapp3.1/PagingExtensions.dll
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/PagingExtensions/obj/Debug/netcoreapp3.1/PagingExtensions.pdb
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/PagingExtensions/obj/Debug/netcoreapp3.1/PagingExtensions.csproj.AssemblyReference.cache
+/Users/buildbuilt/Downloads/BuildBuilt/LINE Connector/PagingExtensions/obj/Debug/netcoreapp3.1/PagingExtensions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\PagingExtensions\bin\Debug\netcoreapp3.1\PagingExtensions.deps.json
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\PagingExtensions\bin\Debug\netcoreapp3.1\PagingExtensions.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\PagingExtensions\bin\Debug\netcoreapp3.1\PagingExtensions.pdb
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\PagingExtensions\obj\Debug\netcoreapp3.1\PagingExtensions.csproj.AssemblyReference.cache
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\PagingExtensions\obj\Debug\netcoreapp3.1\PagingExtensions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\PagingExtensions\obj\Debug\netcoreapp3.1\PagingExtensions.AssemblyInfoInputs.cache
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\PagingExtensions\obj\Debug\netcoreapp3.1\PagingExtensions.AssemblyInfo.cs
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\PagingExtensions\obj\Debug\netcoreapp3.1\PagingExtensions.csproj.CoreCompileInputs.cache
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\PagingExtensions\obj\Debug\netcoreapp3.1\PagingExtensions.sourcelink.json
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\PagingExtensions\obj\Debug\netcoreapp3.1\PagingExtensions.dll
+C:\Users\Tonklarepo\Source\Repos\BuildBuiltDev\LINE-Connector\PagingExtensions\obj\Debug\netcoreapp3.1\PagingExtensions.pdb
+D:\sourcecodes\sf-line-connector\PagingExtensions\bin\Debug\netcoreapp3.1\PagingExtensions.deps.json
+D:\sourcecodes\sf-line-connector\PagingExtensions\bin\Debug\netcoreapp3.1\PagingExtensions.dll
+D:\sourcecodes\sf-line-connector\PagingExtensions\bin\Debug\netcoreapp3.1\PagingExtensions.pdb
+D:\sourcecodes\sf-line-connector\PagingExtensions\obj\Debug\netcoreapp3.1\PagingExtensions.csproj.AssemblyReference.cache
+D:\sourcecodes\sf-line-connector\PagingExtensions\obj\Debug\netcoreapp3.1\PagingExtensions.GeneratedMSBuildEditorConfig.editorconfig
+D:\sourcecodes\sf-line-connector\PagingExtensions\obj\Debug\netcoreapp3.1\PagingExtensions.AssemblyInfoInputs.cache
+D:\sourcecodes\sf-line-connector\PagingExtensions\obj\Debug\netcoreapp3.1\PagingExtensions.AssemblyInfo.cs
+D:\sourcecodes\sf-line-connector\PagingExtensions\obj\Debug\netcoreapp3.1\PagingExtensions.csproj.CoreCompileInputs.cache
+D:\sourcecodes\sf-line-connector\PagingExtensions\obj\Debug\netcoreapp3.1\PagingExtensions.sourcelink.json
+D:\sourcecodes\sf-line-connector\PagingExtensions\obj\Debug\netcoreapp3.1\PagingExtensions.dll
+D:\sourcecodes\sf-line-connector\PagingExtensions\obj\Debug\netcoreapp3.1\PagingExtensions.pdb
